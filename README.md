@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Phanuel Mutuma, a software engineer and tech enthuasist
+## Hi, I'm Phanuel Mutuma, a software engineer and tech enthuasist
 
 - 👯 I'm happy to collaborate on any web development or mobile application project
 - 📫 How to reach me: 
