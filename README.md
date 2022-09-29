@@ -4,7 +4,3 @@
 - 📫 How to reach me: 
      - Email: phanuelmutuma@gmail.com
      - Work: info@phanuelmutuma.co.ke
-
-### Languages and Tools
- [![My Skills](https://skillicons.dev/icons?i=python,androidstudio,java,javascript,react,vue,nextjs,django,kotlin,flutter,figma,graphql,jest)](https://skillicons.dev)
- 
